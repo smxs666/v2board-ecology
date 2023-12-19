@@ -1,6 +1,6 @@
 # v2board-ecology
 
-这个项目用于分享V2board的各种开源相关生态。
+V2board生态
 
 我正在积极寻找、分享各种开源的优秀项目。如果你需要投稿麻烦留言 TG：[@smxs666](https://t.me/smxs666)
 
