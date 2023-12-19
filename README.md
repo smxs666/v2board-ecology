@@ -2,6 +2,7 @@
 
 
 我正在积极寻找、分享各种开源的优秀项目。如果你需要投稿麻烦留言 TG：[@smxs666](https://t.me/smxs666)
+Tg频道：https://t.me/v2badminister
 
 ## 🎛️ 面板
 | 序号 | 名称 | GitHub链接 |
